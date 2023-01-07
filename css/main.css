@@ -1792,6 +1792,7 @@ header .logo a {
 	padding: 0;
 	position: relative;
 	overflow: hidden;
+	padding: 8px;
 }
 #portfolio .folio-item img {
 	vertical-align: middle;
