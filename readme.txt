@@ -78,6 +78,7 @@ jQuery in your skill-set, you can also check out these tutorials:
 ------------------------------------------------------------------------------------------------------ 
 
 
+
 GET THE LATEST VERSION:
 
 We update our templates on a regular basis so to make sure that you have the latest version, 
